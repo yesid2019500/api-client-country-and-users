@@ -1,8 +1,7 @@
 const mongoose = require('mongoose');
 require('dotenv').config()
 
-// yessiangulo
-// yessiangulo2020
+
 // ipp: 0.0.0.0/0
 
 const connectDB = async () => {
